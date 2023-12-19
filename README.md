@@ -1,2 +1,1 @@
 # ProvaRegole
-Ciao
